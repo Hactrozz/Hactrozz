@@ -4,9 +4,13 @@ Olá, Seja Bem-vindo ao Meu Portfólio!
 Tecnologias e Linguagens:
 
 C# / ASP.NET
+
 JavaScript
+
 Dart
+
 HTML / CSS
+
 Aqui você encontrará uma variedade de projetos que demonstram o que estou aprendendo e criando. Sinta-se à vontade para explorar e acompanhar meu progresso.
 
 Obrigado pela visita! 😊
