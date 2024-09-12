@@ -1,7 +1,8 @@
 Olá, Seja Bem-vindo ao Meu Portfólio!
 👋 Olá! Eu sou um jovem estudante apaixonado por programação e estou prestes a concluir o ensino médio com o curso de Análise e Desenvolvimento de Sistemas pelo SENAI. Este repositório é um reflexo das minhas habilidades e projetos em desenvolvimento.
 
-Tecnologias e Linguagens
+Tecnologias e Linguagens:
+
 C# / ASP.NET
 JavaScript
 Dart
