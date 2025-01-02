@@ -19,7 +19,7 @@ Tecnologias e Linguagens:
 ## Midias Socias
 
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
+![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white](https://www.linkedin.com/in/victor-hugo-de-freitas-moura-38791a268/))
 
 Aqui você encontrará uma variedade de projetos que demonstram o que estou aprendendo e criando. Sinta-se à vontade para explorar e acompanhar meu progresso.
 
